@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124758157144",
+    "firebase_url": "https://test-c9d40.firebaseio.com",
+    "project_id": "test-c9d40",
+    "storage_bucket": "test-c9d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124758157144:android:a936e979d97e04ae26a72d",
+        "android_client_info": {
+          "package_name": "com.example.kosholapsteblevets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124758157144-kn0ja708jsnvcfbc5457b1a6pjqcblkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3suq31vYWGjwdk-kAYb-gf2e9mmGqqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124758157144-kn0ja708jsnvcfbc5457b1a6pjqcblkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
